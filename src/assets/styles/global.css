@@ -1,0 +1,415 @@
+/* Define NeoSansArabic font */
+@font-face {
+    font-family: 'NeoSansArabic';
+    src: url('../fonts/NeoSansArabic/neo-sans-arabic-regular.ttf') format('truetype');
+    font-weight: 400;
+    /* Regular weight */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NeoSansArabic';
+    src: url('../fonts/NeoSansArabic/neo-sans-arabic-regular[95].ttf') format('truetype');
+    font-weight: 400;
+    /* Regular weight (95 variant) */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NeoSansArabic';
+    src: url('../fonts/NeoSansArabic/NeoSansArabic-Light.ttf') format('truetype');
+    font-weight: 300;
+    /* Light weight */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NeoSansArabic';
+    src: url('../fonts/NeoSansArabic/NeoSansArabic-Light[100].ttf') format('truetype');
+    font-weight: 300;
+    /* Light weight (100 variant) */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NeoSansArabic';
+    src: url('../fonts/NeoSansArabic/NeoSansArabic-Medium.ttf') format('truetype');
+    font-weight: 500;
+    /* Medium weight */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NeoSansArabic';
+    src: url('../fonts/NeoSansArabic/NeoSansArabic-Medium[14].ttf') format('truetype');
+    font-weight: 500;
+    /* Medium weight (14 variant) */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NeoSansArabic';
+    src: url('../fonts/NeoSansArabic/NeoSansArabic.ttf') format('truetype');
+    font-weight: 400;
+    /* Regular weight */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NeoSansArabic';
+    src: url('../fonts/NeoSansArabic/NeoSansArabicBold.ttf') format('truetype');
+    font-weight: 700;
+    /* Bold weight */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NeoSansArabic';
+    src: url('../fonts/NeoSansArabic/NeoSansArabicBold[12].ttf') format('truetype');
+    font-weight: 700;
+    /* Bold weight (12 variant) */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NeoSansArabic';
+    src: url('../fonts/NeoSansArabic/NeoSansArabicBold[20].ttf') format('truetype');
+    font-weight: 700;
+    /* Bold weight (20 variant) */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NeoSansArabic';
+    src: url('../fonts/NeoSansArabic/NeoSansArabicBold[28].ttf') format('truetype');
+    font-weight: 700;
+    /* Bold weight (28 variant) */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NeoSansArabic';
+    src: url('../fonts/NeoSansArabic/NeoSansArabicMedium.ttf') format('truetype');
+    font-weight: 600;
+    /* Medium weight */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NeoSansArabic';
+    src: url('../fonts/NeoSansArabic/NeoSansArabicMedium[95].ttf') format('truetype');
+    font-weight: 600;
+    /* Medium weight (95 variant) */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NeoSansArabic';
+    src: url('../fonts/NeoSansArabic/NeoSansArabicMedium[96].ttf') format('truetype');
+    font-weight: 600;
+    /* Medium weight (96 variant) */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NeoSansArabic';
+    src: url('../fonts/NeoSansArabic/NeoSansArabicUltra.ttf') format('truetype');
+    font-weight: 800;
+    /* Ultra weight */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NeoSansArabic';
+    src: url('../fonts/NeoSansArabic/NeoSansArabicUltra[9].ttf') format('truetype');
+    font-weight: 800;
+    /* Ultra weight (9 variant) */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NeoSansArabic';
+    src: url('../fonts/NeoSansArabic/NeoSansArabicUltra[68].ttf') format('truetype');
+    font-weight: 800;
+    /* Ultra weight (68 variant) */
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'NeoSansArabic';
+    src: url('../fonts/NeoSansArabic/NEOSANSARABICBLACK.ttf') format('truetype');
+    font-weight: 900;
+    /* Ultra weight (68 variant) */
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Define Helvetica Now Display font */
+@font-face {
+    font-family: 'HelveticaNowDisplay';
+    src: url('../fonts/HelveticaNowDisplay/Helvetica Now Display Bold.otf') format('opentype');
+    font-weight: 700;
+    /* Bold weight */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HelveticaNowDisplay';
+    src: url('../fonts/HelveticaNowDisplay/Helvetica Now Display Bold[55].otf') format('opentype');
+    font-weight: 700;
+    /* Bold weight (55 variant) */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HelveticaNowDisplay';
+    src: url('../fonts/HelveticaNowDisplay/Helvetica Now Display Light.otf') format('opentype');
+    font-weight: 300;
+    /* Light weight */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HelveticaNowDisplay';
+    src: url('../fonts/HelveticaNowDisplay/Helvetica Now Display Light[14].otf') format('opentype');
+    font-weight: 300;
+    /* Light weight (14 variant) */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HelveticaNowDisplay';
+    src: url('../fonts/HelveticaNowDisplay/Helvetica Now Display Medium.otf') format('opentype');
+    font-weight: 500;
+    /* Medium weight */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HelveticaNowDisplay';
+    src: url('../fonts/HelveticaNowDisplay/Helvetica Now Display Medium[35].otf') format('opentype');
+    font-weight: 500;
+    /* Medium weight (35 variant) */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HelveticaNowDisplay';
+    src: url('../fonts/HelveticaNowDisplay/HelveticaNowDisplay-Bold.ttf') format('truetype');
+    font-weight: 700;
+    /* Bold weight */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HelveticaNowDisplay';
+    src: url('../fonts/HelveticaNowDisplay/HelveticaNowDisplay-Bold[21].ttf') format('truetype');
+    font-weight: 700;
+    /* Bold weight (21 variant) */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HelveticaNowDisplay';
+    src: url('../fonts/HelveticaNowDisplay/HelveticaNowDisplay-Bold[27].ttf') format('truetype');
+    font-weight: 700;
+    /* Bold weight (27 variant) */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HelveticaNowDisplay';
+    src: url('../fonts/HelveticaNowDisplay/HelveticaNowDisplay-Bold[91].ttf') format('truetype');
+    font-weight: 700;
+    /* Bold weight (91 variant) */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HelveticaNowDisplay';
+    src: url('../fonts/HelveticaNowDisplay/HelveticaNowDisplay-ExtBlk.ttf') format('truetype');
+    font-weight: 900;
+    /* Extra Black weight */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HelveticaNowDisplay';
+    src: url('../fonts/HelveticaNowDisplay/HelveticaNowDisplay-ExtBlk[79].ttf') format('truetype');
+    font-weight: 900;
+    /* Extra Black weight (79 variant) */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HelveticaNowDisplay';
+    src: url('../fonts/HelveticaNowDisplay/HelveticaNowDisplay-ExtBlk[91].ttf') format('truetype');
+    font-weight: 900;
+    /* Extra Black weight (91 variant) */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HelveticaNowDisplay';
+    src: url('../fonts/HelveticaNowDisplay/HelveticaNowDisplay-ExtBlk[95].ttf') format('truetype');
+    font-weight: 900;
+    /* Extra Black weight (95 variant) */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HelveticaNowDisplay';
+    src: url('../fonts/HelveticaNowDisplay/HelveticaNowDisplay-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    /* Extra Bold weight */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HelveticaNowDisplay';
+    src: url('../fonts/HelveticaNowDisplay/HelveticaNowDisplay-ExtraBold[30].ttf') format('truetype');
+    font-weight: 800;
+    /* Extra Bold weight (30 variant) */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HelveticaNowDisplay';
+    src: url('../fonts/HelveticaNowDisplay/HelveticaNowDisplay-ExtraBold[69].ttf') format('truetype');
+    font-weight: 800;
+    /* Extra Bold weight (69 variant) */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HelveticaNowDisplay';
+    src: url('../fonts/HelveticaNowDisplay/HelveticaNowDisplay-Medium.ttf') format('truetype');
+    font-weight: 500;
+    /* Medium weight */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HelveticaNowDisplay';
+    src: url('../fonts/HelveticaNowDisplay/HelveticaNowDisplay-Medium[16].ttf') format('truetype');
+    font-weight: 500;
+    /* Medium weight (16 variant) */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HelveticaNowDisplay';
+    src: url('../fonts/HelveticaNowDisplay/HelveticaNowDisplay-Medium[61].ttf') format('truetype');
+    font-weight: 500;
+    /* Medium weight (61 variant) */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HelveticaNowDisplay';
+    src: url('../fonts/HelveticaNowDisplay/HelveticaNowDisplay-Regular.otf') format('opentype');
+    font-weight: 400;
+    /* Regular weight */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HelveticaNowDisplay';
+    src: url('../fonts/HelveticaNowDisplay/HelveticaNowDisplay-Regular[23].otf') format('opentype');
+    font-weight: 400;
+    /* Regular weight (23 variant) */
+    font-style: normal;
+    font-display: swap;
+}
+
+
+/* Apply NeoSansArabic as the default font */
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a,
+p,
+ul,
+li,
+img,
+.text-h1,
+.text-h2,
+.text-h3,
+.text-h4,
+.text-h5,
+.text-h6,
+table,
+button,
+.v-application {
+    font-family: 'HelveticaNowDisplay', 'NeoSansArabic';
+}
+
+.rtlClass h1,
+.rtlClass h2,
+.rtlClass h3,
+.rtlClass h4,
+.rtlClass h5,
+.rtlClass h6,
+.rtlClass .text-h1,
+.rtlClass .text-h2,
+.rtlClass .text-h3,
+.rtlClass .text-h4,
+.rtlClass .text-h5,
+.rtlClass .text-h6,
+.rtlClass .btn,
+.rtlClass div:not(.v-otp-input div),
+.rtlClass span,
+.rtlClass a,
+.rtlClass p,
+.rtlClass ul,
+.rtlClass li,
+.rtlClass img,
+.rtlClass table,
+.rtlClass button,
+.rtlClass div {
+    direction: rtl !important;
+    font-family: 'NeoSansArabic', 'HelveticaNowDisplay';
+}

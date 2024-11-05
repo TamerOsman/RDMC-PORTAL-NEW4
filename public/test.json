@@ -1,0 +1,17 @@
+{
+    "8738t72857": {
+        "duty": "duty",
+        "activity": "activity",
+        "time_start": "time_start",
+        "time_end": "time_end",
+        "vehicle_task": "vehicle_task",
+        "loc_start": "loc_start",
+        "loc_end": "loc_end",
+        "swap_with": "swap_with",
+        "trip": "trip",
+        "conflict": "conflict",
+        "notes": "notes",
+        "extra": "extra",
+        "deadhead": "deadhead"
+    }
+}
